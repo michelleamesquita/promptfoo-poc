@@ -1,0 +1,8 @@
+# API Server
+fastapi>=0.110,<1.0
+pydantic>=2,<3
+uvicorn>=0.22,<1.0
+
+# ML/Data Science (para carregar modelos pickle)
+numpy>=1.21,<2.0
+scikit-learn>=1.0
